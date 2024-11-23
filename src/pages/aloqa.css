@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .im {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(67, 176, 42);
+    color: white;
+  }
+  
+  
+  .im ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    font-family: sans-serif;
+  }
+  
+  
+  .im img {
+    width: 400px;
+  }
+  
+  
+  
+  .orq {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+  }
+  
+  
+  
+  .payme {
+    display: flex;
+    align-items: center;
+    padding: 0px 90px;
+    color: green;
+    gap: 30px;
+  
+  }
+  
+  
+  
+  .payme img {
+    width: 700px;
+    border-radius: 20px;
+    height: auto;
+  }
+  
+  
+  .hi h1 {
+    background-color: rgb(251, 244, 235);
+    margin-bottom: 20px;
+    padding: 30px 25px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+  
+  
+  }
+  
+  .hi {
+    margin-top: 50px;
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  .tarma {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 0 90px;
+  }
+  
+  
+  .biz {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 90px;
+  }
+  
+  .biz h1 {
+    background-color: rgb(251, 244, 235);
+    color: green;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    padding: 30px 70px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  
+  
+  
+  footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 90px;
+  }
+  
+  
+  .icon {
+    font-size: 30px;
+    color: green;
+    margin-right: 20px;
+  
+  }
